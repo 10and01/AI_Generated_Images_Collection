@@ -1,2 +1,2 @@
 # AI_Generated_Images_Collection
-Mainly by DouBao Seedance
+Mainly created by DouBao Seedance with Chinese prompts inside word doc.
