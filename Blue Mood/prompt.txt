@@ -1,0 +1,25 @@
+P1：
+Visual Style Reference Cinematic movie poster, a fusion of the two uploaded reference images. The background features the gritty, high-detail aerial destruction and smoke trails from Image 1, while the character arrangement follows the epic triangular ensemble layout of Image 2. 
+
+Composition & Characters  An ensemble of 11 characters. Top Tier A solemn elderly leader (Li Xuejian) as a translucent spiritual presence. Upper Mid A battle-worn astronaut (Wu Jing) on the left and a scientist with digital artifacts (Andy Lau) on the right, creating a contrast between physical sacrifice and digital existence. Middle Five key characters (Shen Teng, Sha Yi, Ning Li, Tong Liya, Wang Zhi) showing expressions of heavy responsibility and mourning. Bottom Foreground Three young survivors (Qu Chuxiao, Zhao Jinmai, Li Guangjie) in heavy mechanical exo-suits, charging forward through debris.
+
+Color & Lighting  High-contrast lighting. Left side is illuminated by the terrifying orange-red glow of a solar Helium Flash. Right side is bathed in cold, glitchy cyan-blue light representing MOSS and the digital void. Volumetric lighting, flying sparks, and digital pixel disintegration effects.
+
+Typography Reference  Reserve space at the bottom for the movie title. The font style must strictly follow the reference images A combination of aggressive, stylized Chinese brush calligraphy and bold, industrial-style sans-serif English typography. The title area should have a metallic texture with subtle digital glitching.
+
+Technical Details  Photorealistic, IMAX scale, 8k resolution, intricate mechanical textures on space suits, hyper-detailed smoke and clouds, dramatic cinematic atmosphere. --ar 23 --v 6.0
+手机壁纸蓝调模板：
+[核心主体], [蓝调色卡], [光效/氛围形容词], cinematic lighting, melancholic atmosphere, highly detailed, minimalist composition, 8k resolution, aspect ratio 9:16.
+
+核心主体：例如：城市雨夜、孤山、抽象色块、深夜书桌。
+
+蓝调色卡：Midnight blue (午夜蓝), Prussian blue (普鲁士蓝), Neon cyan (霓虹青).
+
+光效/氛围：Soft bokeh (柔和虚化), Volumetric fog (体积烟雾), Rainy window reflections (雨窗反射).
+P2：
+A silhouette of a pine forest under a giant crescent moon, midnight blue sky with subtle stardust, calm lake reflection, soft ethereal glow, dreamy vibe, flat design style mixed with realism, soothing atmosphere, 8k, --ar 9:16
+P3:
+Abstract liquid metal waves flowing in the dark, glowing electric blue edges, deep shadows, futuristic aesthetic, smooth textures, ray tracing, high contrast, elegant and clean composition, 8k, --ar 9:16
+P4:
+A lonely street lamp in a rainy midnight city, reflection on the wet pavement, Prussian blue and deep navy palette, cinematic grain, misty atmosphere, bokeh city lights in the background, minimalist, sharp focus on raindrops, 8k, --ar 9:16
+
