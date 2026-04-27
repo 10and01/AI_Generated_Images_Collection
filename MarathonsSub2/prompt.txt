@@ -1,0 +1,52 @@
+1：历史荣耀与古典史诗 (Antique Heritage & Heroic Spirit)
+•	设计理念：侧重于从古希腊英雄主义到现代田径传奇的血脉传承。
+•	配色逻辑：采用“Antique Bronze”（复古青铜）调色板，以深墨绿和青铜金为主色。
+详细提示词 (Prompt)：
+Print aesthetic: Risograph screen-print texture, visible paper fiber grain, delicate ink stippling and registration misalignment, spotty halftone dots, limited color separation layers. Museum-quality exhibition poster. 8K, ultra-detailed.
+Epic marathon commemorative poster, double exposure composition, vertical portrait orientation. Deep charcoal matte black background with vast negative space at the top.
+Centered: a monumental, explosive silhouette of Kenyan runner Sabastian Sawe in full stride, body radiating extreme power and forward momentum, captured at the moment of breaking the 2-hour barrier on the streets of London. The silhouette is rendered in bronze and antique gold tones against the void.
+The silhouette’s leading foot strikes the ground, wearing the ADIZERO ADIOS PRO EVO 3 racing shoe rendered as an archaeological relic in bronze-gold patina.
+Inside the silhouette (double exposure):
+•	Ancient Greek red-figure pottery athlete reliefs in terracotta and sienna, depicting runners in classical motion, nude athletes in the style of Panathenaic amphorae
+•	The iconic London’s Victoria Park and Buckingham Palace, symbolizing the 2026 London Marathon course where Sawe achieved the historic 1:59:30
+•	A faint chronological timeline of marathon world records spiraling upward like a DNA helix or ascending stairs: 2:55:18.4 → 2:32:35.8 → 2:20:42.2 → 2:15:16.2 → 2:09:36.4 → 2:06:50 → 2:03:59 → 2:01:39 → 2:00:35 → 1:59:30
+Color palette: dominant bronze and antique gold, with subtle oxidized patina greens and deep terracotta accents. Solemn, monumental, cathedral-like atmosphere.
+At the bottom of the silhouette, in prominent precision sans-serif typography (like DIN or Helvetica Now):
+"1:59:30"
+"2026 London"
+Below in smaller glyph-like tabular data:
+2:55:18.4 Johnny Hayes USA 1908.07.24 London Olympics
+2:32:35.8 Hannes Kolehmainen Finland 1920.08.22 Antwerp Olympics
+2:20:42.2 Jim Peters UK 1952.06.14 Polytechnic Marathon
+2:15:16.2 Abebe Bikila Ethiopia 1960.09.10 Rome Olympics
+2:09:36.4 Derek Clayton Australia 1967.12.03 Fukuoka Marathon
+2:06:50 Belayneh Dinsamo Ethiopia 1988.04.17 Rotterdam Marathon
+2:03:59 Haile Gebrselassie Ethiopia 2008.09.28 Berlin Marathon
+2:01:39 Eliud Kipchoge Kenya 2018.09.16 Berlin Marathon
+2:00:35 Kelvin Kiptum Kenya 2023.10.08 Chicago Marathon
+Print aesthetic: Risograph screen-print texture, visible paper fiber grain, delicate ink stippling and registration misalignment, spotty halftone dots, limited color separation layers. Museum-quality exhibition poster. 8K, ultra-detailed.
+2：暗色奢华与终极对决 (After-Dark Aesthetic & The Dual)
+•	适用场景：强调萨维与科杰查（1:59:41）在伦敦街头的最后激战。
+•	颜色主题：冷调蓝（Cool Blue）、炭黑与酸性橙（Acid Orange）的撞色。
+详细提示词：高完成度史诗感艺术海报，双重曝光构图，【炭黑色】背景。主体为Sabastian Sawe与Yomif Kejelcha的剪影，身体线条充满张力。剪影内部融合【圣詹姆斯公园的深色树影、带有动感模糊的伦敦林荫大道、以及不断闪烁的 LED 计时器数字】。整体以【深海蓝和荧光酸性橙】为主，【暗黑奢华且极具压迫性】气氛极强，采用 2026 年流行的【非对称 editorial 排版】。印刷【高精度丝网质感，带有微弱的金属反光颗粒】，竖版。中心显著位置以【拉伸位移字体】标注“1:59:30”，下方微缩标注“59:01 SECOND HALF SPLIT”。
+3：液态流动与速度之魂 (Liquid Motion & Speed Soul)
+•	适用场景：侧重萨维作为首位正赛破二选手，身体内蕴含的纯粹速度感。
+•	视觉效果：利用液态金属感和模糊扭曲（Blur & Distortion）来表达 5.88 米/秒的推进力。
+详细提示词：高完成度史诗感艺术海报，双重曝光构图，【极简冰川蓝】背景。中心为Sabastian Sawe（阿迪达斯代言）奔跑中的侧身剪影，剪影边缘呈现出【液态金属融化状的拉伸效果】。剪影内部融合【奔流不息的泰晤士河水、塔桥的几何钢架结构】。整体以【灰蓝和亮白】为主，【灵动、超脱且充满希望】气氛极强，画面上方大量留白。印刷【带有 2026 年数字，局部呈现半透明磨砂玻璃质感】，竖版。在剪影的动态路径上标注“1:59:30”。
+•  冠军时间：1:59:30 (Sabastian Sawe)
+•  亚军时间：1:59:41 (Yomif Kejelcha)
+•  历史起点：2:55:18 (1908 London Olympics) 
+•  核心标语：The 1:59 Barrier Broken (2026.04.26)
+
+
+4：文明跨越·从马拉松到伦敦 (The Eternal Bridge: From Ancient to Modern)
+设计理念：将古希腊英雄菲迪皮茨的起源与现代竞技体育的最高峰联结。
+
+视觉内核：古典浮雕感与现代伦敦城市天际线的交织。
+
+配色：落日赤橙（Sunset Orange）与深褐。
+
+详细提示词 (Prompt)：
+
+高完成度史诗感艺术海报，双重曝光构图，【象牙白】背景。中心为一个巨大的、具有古典雕塑感的奔跑者剪影。剪影内部融合【古希腊帕特农神庙的残垣、伦敦眼（London Eye）的圆形轮廓、以及萨维与科杰查在圣詹姆斯公园旁缠斗的掠影】。整体以【落日橙、焦赭石色和深褐色】为主，【跨越时空的史诗性】气氛极强，底部留白。印刷【Risograph孔版印刷质感，具有明显的纸张纹理和手工套色痕迹】，竖版。在剪影的心脏部位采用发光处理，标注“1:59:30”。
+
